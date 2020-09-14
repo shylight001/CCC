@@ -1,0 +1,10 @@
+---pip3 install selenium
+
+---brew cask install chromedriver
+http://chromedriver.chromium.org/
+
+Sample 1
+https://www.seleniumeasy.com/test/basic-first-form-demo.html
+
+Sample 2: Drag and drop
+http://dhtmlgoodies.com/scripts/drag-drop-custom/demo-drag-drop-3.html
